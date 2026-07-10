@@ -1,7 +1,6 @@
 # Pralay2_stm2_sys2 - Multi-Sensor Telemetry System
 
 
-hello hii 
 
 ## 📋 Table of Contents
 1. [System Overview](#system-overview)
